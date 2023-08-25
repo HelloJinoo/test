@@ -11,4 +11,10 @@ public class AA {
     public String v4(){
         return "v4";
     }
+    public String v3(){
+        return "v3";
+    }
+    public String v4(){
+        return "v4";
+    }
 }
