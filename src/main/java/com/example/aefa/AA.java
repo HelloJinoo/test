@@ -8,4 +8,7 @@ public class AA {
     public String v2(){
         return "v2";
     }
+    public String v3(){
+        return "v3";
+    }
 }
