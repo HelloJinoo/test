@@ -12,4 +12,7 @@ public class AA {
     public String v4(){
         return "v4";
     }
+    public String v5(){
+        return "v5";
+    }
 }
